@@ -1,0 +1,43 @@
+CREATE SCHEMA covidreportingDB
+GO
+
+CREATE TABLE covidreportingDB.cases_and_deaths
+(
+    country                 VARCHAR(500),
+    country_code            VARCHAR(500),
+    continent               VARCHAR(500),
+    population              BIGINT,
+    indicator               VARCHAR(500),
+    daily_count             BIGINT,
+    date                    DATE,
+	rate_14_day             VARCHAR(500),
+    source                  VARCHAR(500)
+)
+GO
+
+CREATE TABLE covidreportingDB.hospital_admissions_daily
+(
+    country                 VARCHAR(500),
+    indicator               VARCHAR(500),
+    date                    DATE,
+    year_week               VARCHAR(100),
+    value                   FLOAT,
+    source                  VARCHAR(500),
+    url                     VARCHAR(500)
+    
+)
+GO
+
+CREATE TABLE covidreportingDB.testing
+(
+    country                 VARCHAR(100),
+    country_code            VARCHAR(2),
+    year_week               VARCHAR(8),
+    new_cases               BIGINT,
+    tests_done              BIGINT,
+    population              BIGINT,
+	testing_rate            FLOAT,
+    positivity_rate	        FLOAT,
+    testing_data_source      VARCHAR(500)
+)
+GO
