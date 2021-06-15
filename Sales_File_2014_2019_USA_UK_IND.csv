@@ -1,0 +1,73 @@
+Country,Year,Product_Type,Sales
+USA,2014,electronics,1871
+USA,2015,electronics,3152
+USA,2016,electronics,952
+USA,2017,electronics,2400
+USA,2018,electronics,885
+USA,2019,electronics,3663
+UK,2014,electronics,1566
+UK,2015,electronics,2814
+UK,2016,electronics,1272
+UK,2017,electronics,2934
+UK,2018,electronics,670
+UK,2019,electronics,2128
+IND,2014,electronics,987
+IND,2015,electronics,3256
+IND,2016,electronics,3336
+IND,2017,electronics,458
+IND,2018,electronics,3440
+IND,2019,electronics,2208
+USA,2014,digital,439
+USA,2015,digital,2258
+USA,2016,digital,2685
+USA,2017,digital,2673
+USA,2018,digital,580
+USA,2019,digital,3728
+UK,2014,digital,1225
+UK,2015,digital,3248
+UK,2016,digital,965
+UK,2017,digital,267
+UK,2018,digital,3460
+UK,2019,digital,1005
+IND,2014,digital,3181
+IND,2015,digital,3986
+IND,2016,digital,1735
+IND,2017,digital,1679
+IND,2018,digital,2070
+IND,2019,digital,276
+USA,2014,food items,1708
+USA,2015,food items,1076
+USA,2016,food items,597
+USA,2017,food items,3197
+USA,2018,food items,701
+USA,2019,food items,1480
+UK,2014,food items,765
+UK,2015,food items,737
+UK,2016,food items,1204
+UK,2017,food items,517
+UK,2018,food items,2121
+UK,2019,food items,2076
+IND,2014,food items,1860
+IND,2015,food items,3238
+IND,2016,food items,2365
+IND,2017,food items,1878
+IND,2018,food items,1632
+IND,2019,food items,519
+USA,2014,cosmetics,1119
+USA,2015,cosmetics,2828
+USA,2016,cosmetics,3925
+USA,2017,cosmetics,3975
+USA,2018,cosmetics,1197
+USA,2019,cosmetics,2168
+UK,2014,cosmetics,1024
+UK,2015,cosmetics,3179
+UK,2016,cosmetics,3580
+UK,2017,cosmetics,1788
+UK,2018,cosmetics,3783
+UK,2019,cosmetics,3177
+IND,2014,cosmetics,395
+IND,2015,cosmetics,3772
+IND,2016,cosmetics,2482
+IND,2017,cosmetics,1914
+IND,2018,cosmetics,1947
+IND,2019,cosmetics,1087

@@ -1,0 +1,13 @@
+Country,Year,Product_Type,Sales
+USA,2020,electronics,306
+UK,2020,electronics,516
+IND,2020,electronics,580
+USA,2020,digital,356
+UK,2020,digital,758
+IND,2020,digital,689
+USA,2020,food items,603
+UK,2020,food items,594
+IND,2020,food items,700
+USA,2020,cosmetics,416
+UK,2020,cosmetics,463
+IND,2020,cosmetics,321
